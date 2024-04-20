@@ -19,6 +19,7 @@ public class Main {
         LiteralExample.main(args);
         System.out.println();
 
+        ConversionType.main(args);
         System.out.println();
 
         System.out.println();
