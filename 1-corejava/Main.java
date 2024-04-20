@@ -4,7 +4,6 @@ public class Main {
         // Create an instance of the HelloWorld class
         HelloWorld helloWorld = new HelloWorld();
         VariableExample variableExample = new VariableExample();
-
         // Call the sayHello() method of HelloWorld
         System.out.println();
 
@@ -16,5 +15,13 @@ public class Main {
 
         DataTypesExample.displayContent();
         System.out.println();
+
+        LiteralExample.main(args);
+        System.out.println();
+
+        System.out.println();
+
+        System.out.println();
+
     }
 }
