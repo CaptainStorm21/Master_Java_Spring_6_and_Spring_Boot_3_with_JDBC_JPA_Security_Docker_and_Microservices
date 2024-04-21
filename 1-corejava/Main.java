@@ -42,5 +42,13 @@ public class Main {
         System.out.println("Logical Operators");
         LogicalOperators.main(args);
         System.out.println();
+
+        System.out.println("If Else");
+        IfElse.main(args);
+        System.out.println();
+
+        // System.out.println("If Else If");
+        // IfElseIf.main(args);
+        // System.out.println();
     }
 }
