@@ -22,6 +22,7 @@ public class Main {
         ConversionType.main(args);
         System.out.println();
 
+        AssignmentOperators.main(args);
         System.out.println();
 
     }
