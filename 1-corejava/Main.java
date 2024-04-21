@@ -50,5 +50,11 @@ public class Main {
         System.out.println("If Else If");
         IfElseIf.main(args);
         System.out.println();
+
+        System.out.println("Ternary Examples");
+        TernaryExamples.main(args);
+        System.out.println();
+
+        
     }
 }
