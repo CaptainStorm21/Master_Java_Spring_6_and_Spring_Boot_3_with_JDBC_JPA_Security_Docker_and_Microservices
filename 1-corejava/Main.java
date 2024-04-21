@@ -59,5 +59,8 @@ public class Main {
         SwitchExample.main(args);
         System.out.println();
         
+        System.out.println("For Loop");
+        NeedForLoop.main(args);
+        System.out.println();
     }
 }
