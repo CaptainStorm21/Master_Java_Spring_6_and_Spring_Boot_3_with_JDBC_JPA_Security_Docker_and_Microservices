@@ -47,8 +47,8 @@ public class Main {
         IfElse.main(args);
         System.out.println();
 
-        // System.out.println("If Else If");
-        // IfElseIf.main(args);
-        // System.out.println();
+        System.out.println("If Else If");
+        IfElseIf.main(args);
+        System.out.println();
     }
 }
