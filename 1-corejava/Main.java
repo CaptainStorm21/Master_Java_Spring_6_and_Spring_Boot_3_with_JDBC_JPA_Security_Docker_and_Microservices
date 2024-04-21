@@ -55,6 +55,9 @@ public class Main {
         TernaryExamples.main(args);
         System.out.println();
 
+        System.out.println("Switch Example");
+        SwitchExample.main(args);
+        System.out.println();
         
     }
 }
