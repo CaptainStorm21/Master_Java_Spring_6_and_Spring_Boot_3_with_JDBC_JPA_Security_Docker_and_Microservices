@@ -25,5 +25,7 @@ public class Main {
         AssignmentOperators.main(args);
         System.out.println();
 
+        RelationalOperators.main(args);
+        System.out.println();
     }
 }
