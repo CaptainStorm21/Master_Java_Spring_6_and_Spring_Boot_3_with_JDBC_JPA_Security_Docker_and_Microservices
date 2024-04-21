@@ -7,25 +7,40 @@ public class Main {
         // Call the sayHello() method of HelloWorld
         System.out.println();
 
+        System.out.println("Hello world");
         helloWorld.sayHello();
         System.out.println();
 
+        System.out.println("Variables");
         variableExample.displayContent();
         System.out.println();
 
+        System.out.println("Data Types");
         DataTypesExample.displayContent();
         System.out.println();
 
+        System.out.println("Literal examples");
         LiteralExample.main(args);
         System.out.println();
 
+        System.out.println("Conversion Type");
         ConversionType.main(args);
         System.out.println();
 
+        System.out.println("Assignment Operators");
         AssignmentOperators.main(args);
         System.out.println();
 
+        System.out.println("Relational Operators");
         RelationalOperators.main(args);
+        System.out.println();
+
+        System.out.println("Logical Operators");
+        LogicalOperators.main(args);
+        System.out.println();
+
+        System.out.println("Logical Operators");
+        LogicalOperators.main(args);
         System.out.println();
     }
 }
