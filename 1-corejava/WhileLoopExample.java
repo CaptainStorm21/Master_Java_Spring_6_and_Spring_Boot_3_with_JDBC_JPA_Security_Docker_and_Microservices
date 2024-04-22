@@ -19,5 +19,23 @@ public class WhileLoopExample {
     }
     System.out.println("Sum: " + sum);
     System.out.println("Good bye: " + j);
+
+    // Example 3 : Nested while loop with another while loop condition
+    int outerCounter = 1;
+
+    // Outer loop
+    while (outerCounter <= 5) {
+      int innerCounter = 1;
+
+      // Nested loop
+      while (innerCounter <= outerCounter) {
+        System.out.println("Hi " + innerCounter);
+        innerCounter++;
+      }
+
+      // Print "Good morning" with an incrementing number
+      System.out.println("Good morning " + outerCounter);
+      outerCounter++;
+    }
   }
 }
