@@ -62,5 +62,12 @@ public class Main {
         System.out.println("For Loop");
         NeedForLoop.main(args);
         System.out.println();
+
+        System.out.println("While Loop");
+        WhileLoopExample.main(args);
+        System.out.println();
+
+       
+         
     }
 }
