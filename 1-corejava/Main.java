@@ -66,8 +66,5 @@ public class Main {
         System.out.println("While Loop");
         WhileLoopExample.main(args);
         System.out.println();
-
-       
-         
     }
 }
