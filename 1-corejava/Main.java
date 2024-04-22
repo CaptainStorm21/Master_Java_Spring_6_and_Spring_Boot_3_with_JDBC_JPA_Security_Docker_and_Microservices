@@ -70,5 +70,9 @@ public class Main {
         System.out.println("Do While Loop Examples");
         DoWhileLoopExamples.main(args);
         System.out.println();
+
+        System.out.println("For Loop Examples");
+        ForLoopExamples.main(args);
+        System.out.println();
     }
 }
