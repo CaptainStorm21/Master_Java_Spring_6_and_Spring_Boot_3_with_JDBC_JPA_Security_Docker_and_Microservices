@@ -66,5 +66,9 @@ public class Main {
         System.out.println("While Loop");
         WhileLoopExample.main(args);
         System.out.println();
+
+        System.out.println("Do While Loop Examples");
+        DoWhileLoopExamples.main(args);
+        System.out.println();
     }
 }
